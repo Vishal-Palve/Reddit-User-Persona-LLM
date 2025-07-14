@@ -1,0 +1,6 @@
+praw
+openai
+python-dotenv
+langchain
+tqdm
+rich
